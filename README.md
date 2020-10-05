@@ -1,2 +1,2 @@
 # CourseraLab
-This is meant for use by the Coursera Lab on Remote Repositories
+This is meant for use during the Coursera Lab on Remote Repositories
